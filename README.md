@@ -23,7 +23,7 @@ frontend/
 cd frontend
 
 # Create virtual environment (or use same as backend)
-python -m venv venv
+py -3.12 -m venv venv
 
 # Activate virtual environment
 # Windows:
